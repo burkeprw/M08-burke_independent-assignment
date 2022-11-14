@@ -12,7 +12,7 @@ The assignment has requirements:
 4.	Create a description of the motivation, approach, results, and conclusions that are included in a jupyter notebook that is part of your GitHub repository.
 5.	Create a video presentation that summarizes your project in 5 minutes.
 
-![Atlantic Hurricanes in 2004 - 2005]('/pngs/atlantic-hurricanes_04-05.png')
+![Atlantic Hurricanes in 2004 - 2005](atlantic-hurricanes_04-05.png?raw=true)
 
 **Requirement 1: Dataset** _Incomplete_  
 To be selected from the following options:
