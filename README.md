@@ -12,36 +12,36 @@ The assignment has requirements:
 4.	Create a description of the motivation, approach, results, and conclusions that are included in a jupyter notebook that is part of your GitHub repository.
 5.	Create a video presentation that summarizes your project in 5 minutes.
 
+
+### Atlantic Hurricanes in 2004 - 2005
 ![Atlantic Hurricanes in 2004 - 2005](atlantic-hurricanes_04-05.png?raw=true)
 
-##### **Requirement 1: Dataset** _Incomplete_  
+#### **Requirement 1: Dataset** _Incomplete_  
 To be selected from the following options:  
-HURRICANE PATHS  
-* [NOAA NHC HURDAT](https://www.nhc.noaa.gov/data/)  
-* [Kaggle download](https://www.kaggle.com/datasets/noaa/hurricane-database)   
-    - Hurricane track and wind speed at 6 hour intervals, 1851 - 2014
-PRECIPITATION  
-* ERA precip?
-LANDSLIDES    
-* https://data.world/datasets/landslide  
-* https://datacatalog.worldbank.org/search/dataset/0037584  
-* https://data.nasa.gov/view/angv-aquq  
+* HURRICANE PATHS  
+    - [NOAA NHC HURDAT](https://www.nhc.noaa.gov/data/): Hurricane track and wind speed at 6 hour intervals, 1851 - 2014  
+    - [Kaggle download](https://www.kaggle.com/datasets/noaa/hurricane-database)   
+* PRECIPITATION   
+    - ERA precip?
+* LANDSLIDES    
+    - [data.world](https://data.world/datasets/landslide)
+    - [WB Data Catalogue](https://datacatalog.worldbank.org/search/dataset/0037584)  
+    - [NASA Data Viewer](https://data.nasa.gov/view/angv-aquq)  
 
 
-##### **Requirement 2: Python code submittal** _Incomplete_  
+#### **Requirement 2: Python code submittal** _Incomplete_  
 My assignment will be completed in a Jupyter notebook called `M8HW_Burke.ipynb` which is located in GitHub repository here.
 
-##### **Requirement 3: GitHub Package** _Complete_  
+#### **Requirement 3: GitHub Package** _Complete_  
 My assignment is saved in the GitHub repo called `M08-burke_independent-assignment`.
 
-##### **Requirement 4: Project summary** _In development_  
-
+#### **Requirement 4: Project summary** _In development_  
 
 Project concepts considered and rejected:
 - Assess the distribution of rents within distance radii of locations in a city using rental prices [scraped from Craigslist](https://www.katepennington.org/clmethod) using Wayback Machine, using ML to fill in gaps in data. Determined it was too much work to code the data scraping.
 
 
-##### **Requirement 5: Summary video** _Incomplete_  
+#### **Requirement 5: Summary video** _Incomplete_  
 * A summary video of my research process and results will be found here when ready: _BLANK_
 
 
