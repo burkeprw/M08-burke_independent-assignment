@@ -42,6 +42,6 @@ Project concepts considered and rejected:
 
 
 #### **Requirement 5: Summary video** _Incomplete_  
-* A summary video of my research process and results will be found here when ready: _BLANK_
+A summary video of my research process and results will be found here when ready: _BLANK_
 
 
