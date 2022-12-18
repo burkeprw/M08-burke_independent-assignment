@@ -5,7 +5,7 @@ The assignment is incomplete. I will update this `README.md` when complete.
 
 My assignment follows the instructions provided in the syllabus and discussed during the Nov 07 synchronous lecture. Professor Nesbitt and I will meet to refine this project concept during the week of November 14.
 
-The assignment has requirements: 
+The assignment has the following requirements: 
 1.	Select a dataset, and reference it and appropriate literature using appropriate DOI numbers
 2.	Perform data analysis in python with well-documented code
 3.	Create a GitHub package that you use continually for version control
@@ -37,8 +37,9 @@ My assignment is saved in the GitHub repo called `M08-burke_independent-assignme
 
 #### **Requirement 4: Project summary** _In development_  
 
-Project concepts considered and rejected:
-- Assess the distribution of rents within distance radii of locations in a city using rental prices [scraped from Craigslist](https://www.katepennington.org/clmethod) using Wayback Machine, using ML to fill in gaps in data. Determined it was too much work to code the data scraping.
+Our client owns untility infrastructure in the metropolitan areas of San Salvador, El Salvador. They are interested in assessing climate risk on substations, transmission infrastructure, and other built assets. My motivation with this project is to begin to get familiar with global precipitation and climate projection datasets that can be used in risk assessment.  
+
+My approach to this project is to 
 
 
 #### **Requirement 5: Summary video** _Incomplete_  
