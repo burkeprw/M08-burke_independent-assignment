@@ -19,8 +19,8 @@ The assignment has requirements:
 #### **Requirement 1: Dataset** _Incomplete_  
 To be selected from the following options:  
 * HURRICANE PATHS  
-    - [NOAA NHC HURDAT](https://www.nhc.noaa.gov/data/): Hurricane track and wind speed at 6 hour intervals, 1851 - 2014  
-    - [Kaggle download](https://www.kaggle.com/datasets/noaa/hurricane-database)   
+    - [NOAA NHC Atlantic HURDAT 2](https://www.nhc.noaa.gov/data/): Atlantic hurricane database for track and wind speed at 6 hour intervals, 1851 - 2014 
+    - Available at [OASIS HUB HURDAT 2](https://oasishub.co/dataset/hurdat-2-atlantic-hurricane-database). Could not find DOI. 
 * PRECIPITATION   
     - ERA precip?
 * LANDSLIDES    
