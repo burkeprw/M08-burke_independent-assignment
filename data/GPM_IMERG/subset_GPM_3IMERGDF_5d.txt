@@ -1,0 +1,7 @@
+https://docserver.gesdisc.eosdis.nasa.gov/public/project/GPM/IMERG_ATBD_V06.pdf
+https://gpm1.gesdisc.eosdis.nasa.gov/data/GPM_L3/doc/README.GPM.pdf
+https://gpm1.gesdisc.eosdis.nasa.gov/opendap/GPM_L3/GPM_3IMERGDF.06/2000/06/3B-DAY.MS.MRG.3IMERG.20000601-S000000-E235959.V06.nc4.nc4?precipitationCal[0:0][897:925][1029:1044],time,lon[897:925],lat[1029:1044]
+https://gpm1.gesdisc.eosdis.nasa.gov/opendap/GPM_L3/GPM_3IMERGDF.06/2000/06/3B-DAY.MS.MRG.3IMERG.20000602-S000000-E235959.V06.nc4.nc4?precipitationCal[0:0][897:925][1029:1044],time,lon[897:925],lat[1029:1044]
+https://gpm1.gesdisc.eosdis.nasa.gov/opendap/GPM_L3/GPM_3IMERGDF.06/2000/06/3B-DAY.MS.MRG.3IMERG.20000603-S000000-E235959.V06.nc4.nc4?precipitationCal[0:0][897:925][1029:1044],time,lon[897:925],lat[1029:1044]
+https://gpm1.gesdisc.eosdis.nasa.gov/opendap/GPM_L3/GPM_3IMERGDF.06/2000/06/3B-DAY.MS.MRG.3IMERG.20000604-S000000-E235959.V06.nc4.nc4?precipitationCal[0:0][897:925][1029:1044],time,lon[897:925],lat[1029:1044]
+https://gpm1.gesdisc.eosdis.nasa.gov/opendap/GPM_L3/GPM_3IMERGDF.06/2000/06/3B-DAY.MS.MRG.3IMERG.20000605-S000000-E235959.V06.nc4.nc4?precipitationCal[0:0][897:925][1029:1044],time,lon[897:925],lat[1029:1044]

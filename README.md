@@ -1,9 +1,7 @@
 # ATMS 523 Module-8
 ## Patrick Burke Independent Module
 
-The assignment is incomplete. I will update this `README.md` when complete.
-
-My assignment follows the instructions provided in the syllabus and discussed during the Nov 07 synchronous lecture. Professor Nesbitt and I will meet to refine this project concept during the week of November 14.
+The assignment is complete(ish). My assignment follows the instructions provided in the syllabus and discussed during the Nov 07 synchronous lecture. Professor Nesbitt and I will meet to refine this project concept during the week of November 14.
 
 The assignment has the following requirements: 
 1.	Select a dataset, and reference it and appropriate literature using appropriate DOI numbers
@@ -37,12 +35,13 @@ My assignment is saved in the GitHub repo called `M08-burke_independent-assignme
 
 #### **Requirement 4: Project summary** _In development_  
 
+Assessment of risk form extreme hydro-meteorological events on water resource, infrastructure, and human wellbeing is priority for managers and decision makers in Central America. Recently, integrated downscaled climate projections (dynamical and statistical using AR5 methods) were completed after a multi-year initiative led by the National Meteorological and Hydrological Services (NMHSs) in Central America. The resulting dataset -- [Generation of Downscaled Scenarios for Central America](https://euroclimaplus.org/en/lao3/generation-of-regionalised-climate-change-scenarios-in-central-america) -- is available 
 Our client owns untility infrastructure in the metropolitan areas of San Salvador, El Salvador. They are interested in assessing climate risk on substations, transmission infrastructure, and other built assets. My motivation with this project is to begin to get familiar with global precipitation and climate projection datasets that can be used in risk assessment.  
 
 My approach to this project is to 
 
 
 #### **Requirement 5: Summary video** _Incomplete_  
-A summary video of my research process and results will be found here when ready: _BLANK_
+A summary video of my research process and results will be found [here](https://mediaspace.illinois.edu/media/1_54zu002x)
 
 
